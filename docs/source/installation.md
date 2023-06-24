@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**dl-comps** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**dl-comps** is available [on PyPI](https://pypi.org/project/dl-comps/). Just run
 
 ```bash
-pip install my-package
+pip install dl-comps
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **dl-comps** from source, first clone [the repository](https://github.com/jkbhagatio/dl_comps):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/jkbhagatio/dl_comps.git
+cd dl_comps
 ```
 
 Then run
